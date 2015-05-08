@@ -1,0 +1,4 @@
+Head First Ruby:David Griffiths
+Rake Task Management Essentials:Andrey Koleshko
+Learning Ruby On Rails:Brian Hoke
+Learning Ruby On Rails:Brian Hoke2
